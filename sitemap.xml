@@ -270,6 +270,13 @@
   </url>
   
   <url>
+    <loc>https://archer198.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2020-12-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://archer198.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
@@ -292,13 +299,6 @@
   
   <url>
     <loc>https://archer198.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-12-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://archer198.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -335,14 +335,14 @@
   </url>
   
   <url>
-    <loc>https://archer198.github.io/categories/ML/</loc>
+    <loc>https://archer198.github.io/categories/Python/</loc>
     <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://archer198.github.io/categories/Python/</loc>
+    <loc>https://archer198.github.io/categories/ML/</loc>
     <lastmod>2020-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
